@@ -1,0 +1,29 @@
+📌 Project Purpose: LeetCode Tracker
+
+1. Why This Project?
+Many students and professionals practice coding daily but struggle to organize their progress, track solved problems, or review what they've learned. This project solves that problem by acting as a personalized LeetCode problem tracker.
+
+2. What It Does
+
+Lets users log the problems they've solved or want to solve.
+
+Allows filtering problems by status (solved, unsolved, in-progress).
+
+Stores all data securely using MongoDB.
+
+Provides a clean UI to check daily, weekly, or monthly progress.
+
+Uses Redis for performance improvement (e.g., caching sessions or data).
+
+Supports image uploads (if needed) using Cloudinary.
+
+3. Who Is It For?
+
+Students preparing for coding interviews.
+
+Developers who want to build a consistent problem-solving habit.
+
+Anyone who practices on LeetCode and wants to track and reflect on their journey.
+
+4. Final Goal
+To provide a full-stack web platform where users can monitor their LeetCode performance, set goals, and stay motivated throughout their coding journey.
